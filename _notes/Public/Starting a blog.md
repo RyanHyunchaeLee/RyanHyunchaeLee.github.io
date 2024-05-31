@@ -1,5 +1,5 @@
 ---
-title: 블로그 개설
+title: Starting a blog
 feed: show
 date: 01-06-2024
 ---

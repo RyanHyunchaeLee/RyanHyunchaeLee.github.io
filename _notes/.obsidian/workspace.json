@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Public/Welcome to the garden.md",
+                "file": "Public/Starting a blog.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Public/Welcome to the garden.md",
+                "file": "Public/Starting a blog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Public/Welcome to the garden.md",
+                "file": "Public/Starting a blog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Public/Welcome to the garden.md"
+                "file": "Public/Starting a blog.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "78a3243cf415a698",
   "lastOpenFiles": [
-    "Public/블로그 개설.md",
-    "Public/Markdown Rendered.md",
     "Public/Welcome to the garden.md",
+    "Public/Starting a blog.md",
+    "Public/Markdown Rendered.md",
     "Welcome to the garden.md",
     "Markdown Rendered.md",
     "Public/Hidden Note.md",
