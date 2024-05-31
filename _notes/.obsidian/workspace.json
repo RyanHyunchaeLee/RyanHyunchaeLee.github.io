@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Public/Markdown Rendered.md",
+                "file": "Public/블로그 개설.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Public/Markdown Rendered.md",
+                "file": "Public/블로그 개설.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Public/Markdown Rendered.md",
+                "file": "Public/블로그 개설.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Public/Markdown Rendered.md"
+                "file": "Public/블로그 개설.md"
               }
             }
           }
@@ -148,9 +148,10 @@
   },
   "active": "78a3243cf415a698",
   "lastOpenFiles": [
-    "Public/블로그 개설.md",
+    "Public/Hidden Note.md",
     "Public/Markdown Rendered.md",
-    "Public/Credits.md",
-    "Public/Hidden Note.md"
+    "Public/블로그 개설.md",
+    "Hidden Note] or from feed, along with [[블로그 개설.md",
+    "Public/Credits.md"
   ]
 }

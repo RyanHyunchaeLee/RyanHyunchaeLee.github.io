@@ -7,7 +7,7 @@ date : 01-02-2021
 This page contains a quick reference to all markdown properties. 90% of this was part of the [Simple Jekyll](https://github.com/raghuveerdotnet/simply-jekyll) theme, which we forked to built this one. Great job, makers!
 
 By the way, how did you reach this page?  
-From backlink under [[Hidden Note] or from feed, along with [[블로그 개설]]?
+From backlink under [[Hidden Note]] or from feed, along with [[블로그 개설]]?
 
 * TOC
 {:toc}
@@ -16,7 +16,7 @@ From backlink under [[Hidden Note] or from feed, along with [[블로그 개설]]
 ### Headings 
 ---
 
-{:.regular-sans}
+{:.regular-sans
 ```
 # H1 
 ## H2 
