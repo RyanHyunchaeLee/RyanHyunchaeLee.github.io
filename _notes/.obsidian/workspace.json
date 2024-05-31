@@ -13,13 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Public/Starting a blog.md",
+                "file": "Public/Welcome to the garden.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "20d0bd910e8524d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Public/Markdown Rendered.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "57255f5be4bb2a53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Public/Markdown Rendered.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a24da79faacaa7b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Public/Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Public/Starting a blog.md",
+                "file": "Public/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Public/Starting a blog.md",
+                "file": "Public/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Public/Starting a blog.md"
+                "file": "Public/Untitled.md"
               }
             }
           }
@@ -146,15 +183,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "78a3243cf415a698",
+  "active": "a24da79faacaa7b8",
   "lastOpenFiles": [
-    "Public/Welcome to the garden.md",
-    "Public/Starting a blog.md",
+    "Public/Hidden Note.md",
+    "Public/Untitled.md",
     "Public/Markdown Rendered.md",
+    "Public/Credits.md",
+    "Public/Welcome to the garden.md",
+    "Untitled",
+    "Public/Starting a blog.md",
     "Welcome to the garden.md",
     "Markdown Rendered.md",
-    "Public/Hidden Note.md",
-    "Hidden Note] or from feed, along with [[블로그 개설.md",
-    "Public/Credits.md"
+    "Hidden Note] or from feed, along with [[블로그 개설.md"
   ]
 }
