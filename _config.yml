@@ -66,7 +66,7 @@ plugins:
 ## Enable Collections
 ## Suggested collects are "notes" "lists" and "blog"
 collections:
-    notes: "blog"
+    notes:
       output: true
       permalink: /blog/:title
 
