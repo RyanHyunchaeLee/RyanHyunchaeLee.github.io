@@ -42,9 +42,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "271de3cdf056e80a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Public/QI/Quantum Information.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "caeb7e2ff851db64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Public/Starting a Blog.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -171,17 +195,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "06421a2ad98edff0",
+  "active": "caeb7e2ff851db64",
   "lastOpenFiles": [
-    "Public/QFT/Quantum Field Theory.md",
-    "Public/GR/General Relativity.md",
     "Public/CM/Condensed Matter.md",
+    "Public/Hidden Note.md",
+    "Public/GR/General Relativity.md",
+    "Public/Group/Group Theory.md",
+    "Public/QFT/Quantum Field Theory.md",
+    "Public/QI/Quantum Information.md",
+    "Public/Starting a Blog.md",
+    "Untitled",
+    "Public/Group",
+    "Public/QI",
     "Public/QFT",
     "Public/GR",
     "Public/CM",
     "Public/Quantum Field Theory",
-    "Public/Hidden Note.md",
-    "Public/Starting a Blog.md",
     "Public/Welcome to the garden.md",
     "Public/Tutorial.md",
     "Starting a blog.md",
