@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Public/CM/Condensed Matter.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2198a571b9f3c6e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Public/GR/General Relativity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "06421a2ad98edff0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Public/Starting a Blog.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -146,14 +171,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "55ee866ea7f599cf",
+  "active": "06421a2ad98edff0",
   "lastOpenFiles": [
+    "Public/QFT/Quantum Field Theory.md",
+    "Public/GR/General Relativity.md",
+    "Public/CM/Condensed Matter.md",
+    "Public/QFT",
+    "Public/GR",
+    "Public/CM",
+    "Public/Quantum Field Theory",
     "Public/Hidden Note.md",
-    "Public/CM - 1. From Particles to Fields.md",
     "Public/Starting a Blog.md",
-    "Public/Tutorial.md",
     "Public/Welcome to the garden.md",
-    "Untitled",
+    "Public/Tutorial.md",
     "Starting a blog.md",
     "Lists/Credits.md",
     "Lists/리스트.md",

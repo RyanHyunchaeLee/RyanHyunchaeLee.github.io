@@ -1,9 +1,9 @@
 ---
 title: Starting a Blog
-date: 03-06-2024
+date: 01-06-2024
 feed: show
 ---
-This blog will be a place to post some ideas from studying physics or its related topics. It comprehends following topics.
+This blog will be a place to post some ideas from studying physics or its related topics. It comprehends the following topics.
 
  - Condensed Matter
  - General Relativity
