@@ -1,7 +1,7 @@
 ---
-title : Markdown Rendered
+title: Quantum Matter Fields - 1. From Particles to Fields
 feed: show
-date : 01-02-2021
+date: 03-06-2024
 ---
  
  
