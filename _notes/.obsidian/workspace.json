@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b8340ebbbb17661b",
+        "id": "860892fe11ee9de7",
         "type": "tabs",
         "children": [
           {
-            "id": "78a3243cf415a698",
+            "id": "55ee866ea7f599cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Public/Welcome to the garden.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "20d0bd910e8524d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Public/Quantum Matter Fields - 1. From Particles to Fields.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "57255f5be4bb2a53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Public/Quantum Matter Fields - 1. From Particles to Fields.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a24da79faacaa7b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Public/Quantum Matter Fields - 1. From Particles to Fields.md",
+                "file": "Public/Starting a Blog.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Public/Quantum Matter Fields - 1. From Particles to Fields.md",
+                "file": "Public/Starting a Blog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Public/Quantum Matter Fields - 1. From Particles to Fields.md",
+                "file": "Public/Starting a Blog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Public/Quantum Matter Fields - 1. From Particles to Fields.md"
+                "file": "Public/Starting a Blog.md"
               }
             }
           }
@@ -183,14 +146,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a24da79faacaa7b8",
+  "active": "55ee866ea7f599cf",
   "lastOpenFiles": [
     "Public/Hidden Note.md",
-    "Public/Credits.md",
-    "Public/Quantum Matter Fields - 1. From Particles to Fields.md",
-    "Public/Untitled.md",
+    "Public/CM - 1. From Particles to Fields.md",
+    "Public/Starting a Blog.md",
+    "Public/Tutorial.md",
     "Public/Welcome to the garden.md",
     "Untitled",
+    "Starting a blog.md",
+    "Lists/Credits.md",
+    "Lists/리스트.md",
+    "Lists",
     "Public/Starting a blog.md",
     "Welcome to the garden.md",
     "Markdown Rendered.md",
