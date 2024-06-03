@@ -5,5 +5,6 @@ feed: show
 ---
 Topics related to quantum information are listed.
 
-- reference list:
- - *Quantum Computation and Quantum Information* - Nielsen and Chuang
+---
+reference list:
+- *Quantum Computation and Quantum Information* - Nielsen and Chuang

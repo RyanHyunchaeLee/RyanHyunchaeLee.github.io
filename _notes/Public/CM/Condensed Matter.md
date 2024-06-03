@@ -7,7 +7,8 @@ Topics related to condensed matter are listed.
 
 - [[theta terms]]
 
-- reference list:
- - *Condensed Matter Field Theory* - Altland and Simons
- - *Field Theories of Condensed Matter Physics* - Fradkin
- - *Quantum Phases of Matter* - Sachdev
+---
+reference list:
+- *Condensed Matter Field Theory* - Altland and Simons
+- *Field Theories of Condensed Matter Physics* - Fradkin
+- *Quantum Phases of Matter* - Sachdev

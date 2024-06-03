@@ -11,6 +11,6 @@ This blog will be a place to post some ideas from studying physics or its relate
  - [[Quantum Information]]
  - [[Mathematical Physics]]
  
-  The purpose of this blog is to summarize posts(Obsidian Files, etc.) in a tidy way.
+  The purpose of this blog is to organize posts(Obsidian files) in a tidy way.
 
 
