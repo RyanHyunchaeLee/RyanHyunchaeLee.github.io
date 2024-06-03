@@ -9,7 +9,7 @@ This blog will be a place to post some ideas from studying physics or its relate
  - [[General Relativity]]
  - [[Quantum Field Theory]]
  - [[Quantum Information]]
- - [[Group Theory]]
+ - [[Mathematical Physics]]
  
   The purpose of this blog is to summarize posts(Obsidian Files, etc.) in a tidy way.
 
